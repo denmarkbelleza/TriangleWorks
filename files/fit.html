@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@700;800&family=Work+Sans:wght@400;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <title>Fit Guide | Triangle Works</title>
+  </head>
+  <body data-page="fit">
+    <header id="site-header"></header>
+    <main>
+      <h2>Find your frame size</h2>
+      <p>
+        Stand against a wall with shoes off and measure from the floor to your
+        crotch. That is your inseam.
+      </p>
+      <form id="fit-form" novalidate>
+        <label for="inseam">Inseam (cm)</label>
+        <input id="inseam" type="number" step="0.5" />
+        <label for="ride">Riding style</label>
+        <select id="ride">
+          <option value="0.67">Road</option>
+        </select>
+        <div class="err" id="fit-err"></div>
+        <button class="btn" type="submit">Get my size</button>
+      </form>
+      <div id="fit-out"></div>
+    </main>
+    <footer id="site-footer"></footer>
+    <script src="script.js"></script>
+  </body>
+</html>

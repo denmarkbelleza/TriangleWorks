@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Pinarello Dogma F12",
+    "brand": "Pinarello",
+    "type": "All-Round",
+    "material": "Carbon",
+    "price": 365000,
+    "sizes": ["S", "M", "L"],
+    "desc": "Light, stiff race frame for long fast rides.",
+    "image": "pictures/pinarello-dogma.jpg.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Canyon Aeroad",
+    "brand": "Canyon",
+    "type": "Aero",
+    "material": "Carbon",
+    "price": 255000,
+    "sizes": ["XS", "S", "M", "L"],
+    "desc": "Wind-cheating tube shapes built for flat, fast road races.",
+    "image": "pictures/canyon-pa.avif.avif"
+  },
+  {
+    "id": 3,
+    "name": "Cervélo S5",
+    "brand": "Cervélo",
+    "type": "Aero",
+    "material": "Carbon",
+    "price": 335000,
+    "sizes": ["S", "M", "L", "XL"],
+    "desc": "A pure aero race frame made to save watts at high speed.",
+    "image": "pictures/cervelo-s5.jpg.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Colnago Y1Rs",
+    "brand": "Colnago",
+    "type": "All-Round",
+    "material": "Carbon",
+    "price": 310000,
+    "sizes": ["S", "M", "L"],
+    "desc": "Italian race frame that mixes aero shaping with sharp handling.",
+    "image": "pictures/colnago-y1rs.jpg.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Giant Propel Advanced SL",
+    "brand": "Giant",
+    "type": "Aero",
+    "material": "Carbon",
+    "price": 245000,
+    "sizes": ["S", "M", "L", "XL"],
+    "desc": "Aero road frame with a lighter build for sprints and rolling courses.",
+    "image": "pictures/giant-propel.webp.webp"
+  },
+  {
+    "id": 6,
+    "name": "Specialized Tarmac SL8",
+    "brand": "Specialized",
+    "type": "All-Round",
+    "material": "Carbon",
+    "price": 330000,
+    "sizes": ["XS", "S", "M", "L"],
+    "desc": "Lightweight race frame that is fast on climbs, flats and descents.",
+    "image": "pictures/specialized-tarmac.jpg.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Trek Madone",
+    "brand": "Trek",
+    "type": "Aero",
+    "material": "Carbon",
+    "price": 300000,
+    "sizes": ["S", "M", "L", "XL"],
+    "desc": "Aero race frame with a smooth ride for long days at speed.",
+    "image": "pictures/specialized-tarmac.jpg.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Van Rysel RCR-F Pro",
+    "brand": "Van Rysel",
+    "type": "Climbing",
+    "material": "Carbon",
+    "price": 150000,
+    "sizes": ["XS", "S", "M", "L"],
+    "desc": "Light climbing frame with pro-level performance at a lower price.",
+    "image": "pictures/van-rysel-rcr.avif.avif"
+  }
+]
