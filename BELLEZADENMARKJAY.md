@@ -1,7 +1,7 @@
 # Triangle Works: Bike Frame Studio
 
-**Student:** YOUR FULL NAME HERE
-**Category:** E-Commerce
+Student: BELLEZA, DENMARK JAY D.
+Category: E-Commerce
 
 ## Description
 
